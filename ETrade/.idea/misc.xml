@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ETrade/app/src/main/res/layout/activity_main.xml" value="0.1712962962962963" />
+        <entry key="..\:/ETrade/app/src/main/res/layout/basket_reycler_row.xml" value="0.264" />
+        <entry key="..\:/ETrade/app/src/main/res/layout/fragment_basket.xml" value="0.264" />
+        <entry key="..\:/ETrade/app/src/main/res/layout/fragment_products.xml" value="0.13028169014084506" />
+        <entry key="..\:/ETrade/app/src/main/res/layout/recycler_row.xml" value="0.2722222222222222" />
+        <entry key="..\:/ETrade/app/src/main/res/menu/bottom_menu.xml" value="0.2624113475177305" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

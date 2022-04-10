@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/productsFragment" android:title="Products" android:icon="@drawable/ic_baseline_apps_24"/>
+    <item android:id="@+id/basketFragment" android:title="Basket" android:icon="@drawable/ic_baseline_shopping_basket_24"/>
+</menu>
